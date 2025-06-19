@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jun 19 18:52:08 2025
+
+@author: Admin
+"""
+
+streamlit
+pandas
+plotly
